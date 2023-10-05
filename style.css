@@ -1,0 +1,47 @@
+body{
+
+    background-color: rgb(255, 0, 234);
+    margin: 0;
+
+
+    background: rgb(255, 0, 230);
+background: radial-gradient(circle, rgba(255, 0, 225, 0.771) 6%, rgb(255, 0, 255) 23%, rgba(242, 0, 255, 0.802) 83%);
+}
+
+
+.cabecalho{
+
+    background-color: rgb(255, 0, 195);
+    text-align: center;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+
+
+    text-shadow: 2px 2px rgb(255, 0, 234);
+
+}
+
+.principal{
+
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.penal{
+    width: 450px;
+    border-radius: 50%;
+}
+
+.rodape{
+    background-color: rgb(255, 0, 238);
+    text-align: center;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+
+    text-shadow: 2px 2px rgb(48, 49, 1);
+}
